@@ -15,7 +15,6 @@ A comprehensive automated regression test suite framework built with Spring Boot
 - [Testing](#testing)
 - [CI/CD](#cicd)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -101,7 +100,6 @@ A comprehensive automated regression test suite framework built with Spring Boot
    - API available at `http://localhost:8080/api`.
 
 2. **Frontend**:
-   ```
    cd Frontend
    npm run dev
    ```
@@ -111,12 +109,6 @@ A comprehensive automated regression test suite framework built with Spring Boot
    - Run backend first, then frontend.
    - Login with default credentials (or register via API).
 
-## License
-
-This project is not open-source licensed (no MIT/Apache/etc.) because it is an academic/portfolio submission.
-
-You may study, reference, and learn from the code, but please do not claim it as your own work.
-
 Authored & Developed by:
-
-Tejas
+Yashwanth gowda B
+tejas
